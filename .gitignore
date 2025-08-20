@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Build outputs
+.next/
+out/
+
+# Environment variables
+.env
+
+# Ignore backend folder
+smart-warehouse/
